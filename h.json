@@ -29,17 +29,17 @@
   "items_HOME_SUBJECT_1": [
     {
       "title": "PHYSIOLOGY",
-      "content": "PHYSIOLOGY_S",
+      "content": "physiology",
       "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFDUAuo28P1x-yOCxjkzeCtqwZYLHAWa_xWg&usqp=CAU"
     },
     {
       "title": "ANATOMY",
-      "content": "ANATOMY_S",
+      "content": "anatomy",
       "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSciTByPqqvJE7kp35qW5m5MsufOUfvW9rSHA&usqp=CAU"
     },
     {
       "title": "PHARMACY",
-      "content": "This is the content for the third item.",
+      "content": "pharmacy",
       "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCmYK-ZTgEPQRNLeWqD_-Q0v2Mg7_eyIypDg&usqp=CAU"
     },
     {
