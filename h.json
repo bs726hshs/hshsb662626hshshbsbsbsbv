@@ -1,270 +1,277 @@
 {
-   "items_HOME_BACKGROUND": [
-    {
-      "header_img": "",
-      "navigation_img": "",
-      "subject_back_img": "",
-       "BOOK_header_img": "",
-       "TOOLS_header_img": "",
-        "ASK_WEB_LINK": "https://chatgpt.com/"
-    }
-  ],
-  "items_SLIDER": [
-    {
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyPZ6K3HnAzQRNG9btP5P_WvxvX0lWXh1wcP1kSWAm2smuNw-asNN_ViA&s=10",
-      "type": "pdf",
-      "url": "107sNfRsJX6DEpyyWbhdCxvMvN1hm9Zgb&api=AIzaSyABIgT5puprGJIV4Yn7UO41Mzn9PIyj1_Y"
-    },
-    {
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1blhMIVq-U1uYHlg1sV-2JPUgWYXRc17sHA&usqp=CAU",
-      "type": "mp4",
-      "url": "https://youtu.be/B1DGKaZRDMA"
-    },
-    {
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQlQ-FTW8AAxhsyMmH6UqiVY96CmRR2k-pdg&usqp=CAU",
-      "type": "web",
-      "url": "https://atlas3dapps.000webhostapp.com/botany.png"
-    }
-  ],
-  "items_HOME_SUBJECT_1": [
-    {
-      "title": "PHYSIOLOGY",
-      "content": "physiology",
-      "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/wp-17228466837127471885842385328361.png"
-    },
-    {
-      "title": "ANATOMY",
-      "content": "anatomy",
-      "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/wp-17228466836814941186760339252466.png"
-    },
-    {
-      "title": "PHARMACY",
-      "content": "pharmacy",
-      "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/wp-17228466836471092450086331690059.png"
-    },
-    {
-      "title": "HMM",
-      "content": "hmm1",
-      "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/wp-17228466836135396529173685020456.png"
-    },
-    {
-      "title": "Organon",
-      "content": "This is the content for the fifth item.",
-      "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/wp-17228466835754323857982994962188.png"
-    },
-    {
-      "title": "Psychology",
-      "content": "This is the content for the sixth item.",
-      "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/17228469948456049458324444124964.png"
-    },
-     {
-      "title": "PYQs",
-      "content": "pyqfirst",
-      "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/17228472936341543503335493452239.png"
-     }
-  ],
-  "items_HOME_SUBJECT_2": [
-    {
-      "title": "IMMUNOLOGY",
-      "content": "This is the content for the seventh item.",
-      "url": "https://atlas3dapps.000webhostapp.com/grammar.png"
-    },
-    {
-      "title": "NEUROLOGY",
-      "content": "This is the content for the eighth item.",
-      "url": "https://atlas3dapps.000webhostapp.com/driving-school.png"
-    },
-    {
-      "title": "DERMATOLOGY",
-      "content": "This is the content for the ninth item.",
-      "url": "https://atlas3dapps.000webhostapp.com/botany.png"
-    },
-    {
-      "title": "ENDOCRINOLOGY",
-      "content": "This is the content for the tenth item.",
-      "url": "https://atlas3dapps.000webhostapp.com/debate.png"
-    },
-    {
-      "title": "CARDIOLOGY",
-      "content": "This is the content for the eleventh item.",
-      "url": "https://atlas3dapps.000webhostapp.com/flask.png"
-    },
-    {
-      "title": "HEMATOLOGY",
-      "content": "This is the content for the twelfth item.",
-      "url": "https://atlas3dapps.000webhostapp.com/kitchen-tools.png"
-    }
-  ],
-  "items_HOME_SUBJECT_3": [
-    {
-      "title": "GENETICS",
-      "content": "This is the content for the thirteenth item.",
-      "url": "https://atlas3dapps.000webhostapp.com/grammar.png"
-    },
-    {
-      "title": "ONCOLOGY",
-      "content": "This is the content for the fourteenth item.",
-      "url": "https://atlas3dapps.000webhostapp.com/driving-school.png"
-    },
-    {
-      "title": "NEPHROLOGY",
-      "content": "This is the content for the fifteenth item.",
-      "url": "https://atlas3dapps.000webhostapp.com/botany.png"
-    },
-    {
-      "title": "GASTROENTEROLOGY",
-      "content": "This is the content for the sixteenth item.",
-      "url": "https://atlas3dapps.000webhostapp.com/debate.png"
-    },
-    {
-      "title": "PULMONOLOGY",
-      "content": "This is the content for the seventeenth item.",
-      "url": "https://atlas3dapps.000webhostapp.com/flask.png"
-    },
-    {
-      "title": "OPHTHALMOLOGY",
-      "content": "This is the content for the eighteenth item.",
-      "url": "https://atlas3dapps.000webhostapp.com/kitchen-tools.png"
-    }
-  ],
-  "items_HOME_SUBJECT_4": [
-    {
-      "title": "NEUROSCIENCE",
-      "content": "This is the content for the nineteenth item.",
-      "url": "https://atlas3dapps.000webhostapp.com/grammar.png"
-    },
-    {
-      "title": "PSYCHIATRY",
-      "content": "This is the content for the twentieth item.",
-      "url": "https://atlas3dapps.000webhostapp.com/driving-school.png"
-    },
-    {
-      "title": "RHEUMATOLOGY",
-      "content": "This is the content for the twenty-first item.",
-      "url": "https://atlas3dapps.000webhostapp.com/botany.png"
-    },
-    {
-      "title": "GERIATRICS",
-      "content": "This is the content for the twenty-second item.",
-      "url": "https://atlas3dapps.000webhostapp.com/debate.png"
-    },
-    {
-      "title": "PEDIATRICS",
-      "content": "This is the content for the twenty-third item.",
-      "url": "https://atlas3dapps.000webhostapp.com/flask.png"
-    },
-    {
-      "title": "UROLOGY",
-      "content": "This is the content for the twenty-fourth item.",
-      "url": "https://atlas3dapps.000webhostapp.com/kitchen-tools.png"
-    }
-  ],
-  "items_BOOK1": [
-    {
-      "title": "SEMBULINGAM",
-      "content": "13CD4YS2vAjgSadmUvHbOfM7vpbRwN0I0",
-      "url": "https://res.cloudinary.com/dfw1af3io/image/upload/v1720861591/HOME_THUMBNAILS/1st_BOOKS_THUMB/lmgnocftbfbeyyquy7tb.jpg"
-    },
-    {
-      "title": "PHARMACY BY BANERJEE",
-      "content": "13c25MSBRelj38TR2fXLEE7P8cv34JU8U",
-      "url": "https://res.cloudinary.com/dfw1af3io/image/upload/v1720861590/HOME_THUMBNAILS/1st_BOOKS_THUMB/tsverviskfxlfpom6rm2.jpg"
-    },
-    {
-      "title": "ORGANON BY NAGENDRA BABU",
-      "content": "13UKNEHeCRhN2G41a-822Zwwp9ge3v5RZ",
-      "url": "https://res.cloudinary.com/dfw1af3io/image/upload/v1720861590/HOME_THUMBNAILS/1st_BOOKS_THUMB/kprpq8lz0ttw9zm0ilon.jpg"
-    },
-    {
-      "title": "MATERIA MEDICA BY S.K DUBEY",
-      "content": "14826zrQ8VgaRbNf2D0cvjoVBiEtX9Va7",
-      "url": "https://res.cloudinary.com/dfw1af3io/image/upload/v1720861590/HOME_THUMBNAILS/1st_BOOKS_THUMB/izgrgf4vtmubkcjdl74s.jpg"
-    },
-    {
-      "title": "BD CHAURASIA V1",
-      "content": "1PsrWGFiFeLOQZtLsnGwAFKZlj4ua2XZC",
-      "url": "https://res.cloudinary.com/dfw1af3io/image/upload/v1720862443/BD_1_e3kfx1.jpg"
-    },
-    {
-      "title": "BD CHAURASIA V2",
-      "content": "1jmJ-DIHapG365pLwzlnfu12CfOAq139-",
-      "url": "https://res.cloudinary.com/dfw1af3io/image/upload/v1720862454/BD_2_vwzure.jpg"
-    },
-    {
-      "title": "BD CHAURASIA V3",
-      "content": "This is the content for BOOK1 item 4.",
-      "url": "https://res.cloudinary.com/dfw1af3io/image/upload/v1720861590/HOME_THUMBNAILS/1st_BOOKS_THUMB/wns3zjkzashg3dfv0ydk.jpg"
-    },
-    {
-      "title": "BD CHAURASIA V4",
-      "content": "This is the content for BOOK1 item 4.",
-      "url": "https://res.cloudinary.com/dfw1af3io/image/upload/v1720861591/HOME_THUMBNAILS/1st_BOOKS_THUMB/t8zhdwvshaom3htbgqzr.jpg"
-    }
-  ],
-  "items_BOOK2": [
-    {
-      "title": "BOOK2_TITLE1",
-      "content": "This is the content for BOOK2 item 1.",
-      "url": "https://m.media-amazon.com/images/I/71uiEU4lC-L._AC_UF1000,1000_QL80_FMwebp_.jpg"
-    },
-    {
-      "title": "BOOK2_TITLE2",
-      "content": "This is the content for BOOK2 item 2.",
-      "url": "https://m.media-amazon.com/images/I/71uiEU4lC-L._AC_UF1000,1000_QL80_FMwebp_.jpg"
-    },
-    {
-      "title": "BOOK2_TITLE3",
-      "content": "This is the content for BOOK2 item 3.",
-      "url": "https://m.media-amazon.com/images/I/71uiEU4lC-L._AC_UF1000,1000_QL80_FMwebp_.jpg"
-    },
-    {
-      "title": "BOOK2_TITLE4",
-      "content": "This is the content for BOOK2 item 4.",
-      "url": "https://m.media-amazon.com/images/I/71uiEU4lC-L._AC_UF1000,1000_QL80_FMwebp_.jpg"
-    }
-  ],
-  "items_BOOK3": [
-    {
-      "title": "BOOK3_TITLE1",
-      "content": "This is the content for BOOK3 item 1.",
-      "url": "https://m.media-amazon.com/images/I/71uiEU4lC-L._AC_UF1000,1000_QL80_FMwebp_.jpg"
-    },
-    {
-      "title": "BOOK3_TITLE2",
-      "content": "This is the content for BOOK3 item 2.",
-      "url": "https://m.media-amazon.com/images/I/71uiEU4lC-L._AC_UF1000,1000_QL80_FMwebp_.jpg"
-    },
-    {
-      "title": "BOOK3_TITLE3",
-      "content": "This is the content for BOOK3 item 3.",
-      "url": "https://m.media-amazon.com/images/I/71uiEU4lC-L._AC_UF1000,1000_QL80_FMwebp_.jpg"
-    },
-    {
-      "title": "BOOK3_TITLE4",
-      "content": "This is the content for BOOK3 item 4.",
-      "url": "https://m.media-amazon.com/images/I/71uiEU4lC-L._AC_UF1000,1000_QL80_FMwebp_.jpg"
-    }
-  ],
-  "items_BOOK4": [
-    {
-      "title": "BOOK4_TITLE1",
-      "content": "This is the content for BOOK4 item 1.",
-      "url": "https://m.media-amazon.com/images/I/71uiEU4lC-L._AC_UF1000,1000_QL80_FMwebp_.jpg"
-    },
-    {
-      "title": "BOOK4_TITLE2",
-      "content": "This is the content for BOOK4 item 2.",
-      "url": "https://m.media-amazon.com/images/I/71uiEU4lC-L._AC_UF1000,1000_QL80_FMwebp_.jpg"
-    },
-    {
-      "title": "BOOK4_TITLE3",
-      "content": "This is the content for BOOK4 item 3.",
-      "url": "https://m.media-amazon.com/images/I/71uiEU4lC-L._AC_UF1000,1000_QL80_FMwebp_.jpg"
-    },
-    {
-      "title": "BOOK4_TITLE4",
-      "content": "This is the content for BOOK4 item 4.",
-      "url": "https://m.media-amazon.com/images/I/71uiEU4lC-L._AC_UF1000,1000_QL80_FMwebp_.jpg"
-    }
-  ]
+    "items_HOME_BACKGROUND": [
+        {
+            "header_img": "",
+            "navigation_img": "",
+            "subject_back_img": "",
+            "BOOK_header_img": "",
+            "TOOLS_header_img": "",
+            "PDF_V": "https://cdnpff.blogspot.com/",
+            "SEARCH_INT": "https://indigo-bobine-53.tiiny.io/",
+            "SEARCH_RS": "https://magenta-melicent-16.tiiny.io/",
+            "STEP1": "https://moccasin-dacia-56.tiiny.io/",
+            "STEP2": "https://peach-cortney-48.tiiny.io/",
+            "UPLOAD": "www.google.com",
+            "TITLE_S": "https://magenta-melicent-16.tiiny.io/",
+            "ASK_WEB_LINK": "https://chatgpt.com/"
+        }
+    ],
+    "items_SLIDER": [
+        {
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyPZ6K3HnAzQRNG9btP5P_WvxvX0lWXh1wcP1kSWAm2smuNw-asNN_ViA&s=10",
+            "type": "pdf",
+            "url": "107sNfRsJX6DEpyyWbhdCxvMvN1hm9Zgb&api=AIzaSyABIgT5puprGJIV4Yn7UO41Mzn9PIyj1_Y"
+        },
+        {
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1blhMIVq-U1uYHlg1sV-2JPUgWYXRc17sHA&usqp=CAU",
+            "type": "mp4",
+            "url": "https://youtu.be/B1DGKaZRDMA"
+        },
+        {
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQlQ-FTW8AAxhsyMmH6UqiVY96CmRR2k-pdg&usqp=CAU",
+            "type": "web",
+            "url": "https://atlas3dapps.000webhostapp.com/botany.png"
+        }
+    ],
+    "items_HOME_SUBJECT_1": [
+        {
+            "title": "PHYSIOLOGY",
+            "content": "physiology",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/wp-17228466837127471885842385328361.png"
+        },
+        {
+            "title": "ANATOMY",
+            "content": "anatomy",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/wp-17228466836814941186760339252466.png"
+        },
+        {
+            "title": "PHARMACY",
+            "content": "pharmacy",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/wp-17228466836471092450086331690059.png"
+        },
+        {
+            "title": "HMM",
+            "content": "hmm1",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/wp-17228466836135396529173685020456.png"
+        },
+        {
+            "title": "Organon",
+            "content": "This is the content for the fifth item.",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/wp-17228466835754323857982994962188.png"
+        },
+        {
+            "title": "Psychology",
+            "content": "This is the content for the sixth item.",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/17228469948456049458324444124964.png"
+        },
+        {
+            "title": "PYQs",
+            "content": "pyqfirst",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/17228472936341543503335493452239.png"
+        }
+    ],
+    "items_HOME_SUBJECT_2": [
+        {
+            "title": "IMMUNOLOGY",
+            "content": "This is the content for the seventh item.",
+            "url": "https://atlas3dapps.000webhostapp.com/grammar.png"
+        },
+        {
+            "title": "NEUROLOGY",
+            "content": "This is the content for the eighth item.",
+            "url": "https://atlas3dapps.000webhostapp.com/driving-school.png"
+        },
+        {
+            "title": "DERMATOLOGY",
+            "content": "This is the content for the ninth item.",
+            "url": "https://atlas3dapps.000webhostapp.com/botany.png"
+        },
+        {
+            "title": "ENDOCRINOLOGY",
+            "content": "This is the content for the tenth item.",
+            "url": "https://atlas3dapps.000webhostapp.com/debate.png"
+        },
+        {
+            "title": "CARDIOLOGY",
+            "content": "This is the content for the eleventh item.",
+            "url": "https://atlas3dapps.000webhostapp.com/flask.png"
+        },
+        {
+            "title": "HEMATOLOGY",
+            "content": "This is the content for the twelfth item.",
+            "url": "https://atlas3dapps.000webhostapp.com/kitchen-tools.png"
+        }
+    ],
+    "items_HOME_SUBJECT_3": [
+        {
+            "title": "GENETICS",
+            "content": "This is the content for the thirteenth item.",
+            "url": "https://atlas3dapps.000webhostapp.com/grammar.png"
+        },
+        {
+            "title": "ONCOLOGY",
+            "content": "This is the content for the fourteenth item.",
+            "url": "https://atlas3dapps.000webhostapp.com/driving-school.png"
+        },
+        {
+            "title": "NEPHROLOGY",
+            "content": "This is the content for the fifteenth item.",
+            "url": "https://atlas3dapps.000webhostapp.com/botany.png"
+        },
+        {
+            "title": "GASTROENTEROLOGY",
+            "content": "This is the content for the sixteenth item.",
+            "url": "https://atlas3dapps.000webhostapp.com/debate.png"
+        },
+        {
+            "title": "PULMONOLOGY",
+            "content": "This is the content for the seventeenth item.",
+            "url": "https://atlas3dapps.000webhostapp.com/flask.png"
+        },
+        {
+            "title": "OPHTHALMOLOGY",
+            "content": "This is the content for the eighteenth item.",
+            "url": "https://atlas3dapps.000webhostapp.com/kitchen-tools.png"
+        }
+    ],
+    "items_HOME_SUBJECT_4": [
+        {
+            "title": "NEUROSCIENCE",
+            "content": "This is the content for the nineteenth item.",
+            "url": "https://atlas3dapps.000webhostapp.com/grammar.png"
+        },
+        {
+            "title": "PSYCHIATRY",
+            "content": "This is the content for the twentieth item.",
+            "url": "https://atlas3dapps.000webhostapp.com/driving-school.png"
+        },
+        {
+            "title": "RHEUMATOLOGY",
+            "content": "This is the content for the twenty-first item.",
+            "url": "https://atlas3dapps.000webhostapp.com/botany.png"
+        },
+        {
+            "title": "GERIATRICS",
+            "content": "This is the content for the twenty-second item.",
+            "url": "https://atlas3dapps.000webhostapp.com/debate.png"
+        },
+        {
+            "title": "PEDIATRICS",
+            "content": "This is the content for the twenty-third item.",
+            "url": "https://atlas3dapps.000webhostapp.com/flask.png"
+        },
+        {
+            "title": "UROLOGY",
+            "content": "This is the content for the twenty-fourth item.",
+            "url": "https://atlas3dapps.000webhostapp.com/kitchen-tools.png"
+        }
+    ],
+    "items_BOOK1": [
+        {
+            "title": "SEMBULINGAM",
+            "content": "13CD4YS2vAjgSadmUvHbOfM7vpbRwN0I0",
+            "url": "https://res.cloudinary.com/dfw1af3io/image/upload/v1720861591/HOME_THUMBNAILS/1st_BOOKS_THUMB/lmgnocftbfbeyyquy7tb.jpg"
+        },
+        {
+            "title": "PHARMACY BY BANERJEE",
+            "content": "13c25MSBRelj38TR2fXLEE7P8cv34JU8U",
+            "url": "https://res.cloudinary.com/dfw1af3io/image/upload/v1720861590/HOME_THUMBNAILS/1st_BOOKS_THUMB/tsverviskfxlfpom6rm2.jpg"
+        },
+        {
+            "title": "ORGANON BY NAGENDRA BABU",
+            "content": "13UKNEHeCRhN2G41a-822Zwwp9ge3v5RZ",
+            "url": "https://res.cloudinary.com/dfw1af3io/image/upload/v1720861590/HOME_THUMBNAILS/1st_BOOKS_THUMB/kprpq8lz0ttw9zm0ilon.jpg"
+        },
+        {
+            "title": "MATERIA MEDICA BY S.K DUBEY",
+            "content": "14826zrQ8VgaRbNf2D0cvjoVBiEtX9Va7",
+            "url": "https://res.cloudinary.com/dfw1af3io/image/upload/v1720861590/HOME_THUMBNAILS/1st_BOOKS_THUMB/izgrgf4vtmubkcjdl74s.jpg"
+        },
+        {
+            "title": "BD CHAURASIA V1",
+            "content": "1PsrWGFiFeLOQZtLsnGwAFKZlj4ua2XZC",
+            "url": "https://res.cloudinary.com/dfw1af3io/image/upload/v1720862443/BD_1_e3kfx1.jpg"
+        },
+        {
+            "title": "BD CHAURASIA V2",
+            "content": "1jmJ-DIHapG365pLwzlnfu12CfOAq139-",
+            "url": "https://res.cloudinary.com/dfw1af3io/image/upload/v1720862454/BD_2_vwzure.jpg"
+        },
+        {
+            "title": "BD CHAURASIA V3",
+            "content": "This is the content for BOOK1 item 4.",
+            "url": "https://res.cloudinary.com/dfw1af3io/image/upload/v1720861590/HOME_THUMBNAILS/1st_BOOKS_THUMB/wns3zjkzashg3dfv0ydk.jpg"
+        },
+        {
+            "title": "BD CHAURASIA V4",
+            "content": "This is the content for BOOK1 item 4.",
+            "url": "https://res.cloudinary.com/dfw1af3io/image/upload/v1720861591/HOME_THUMBNAILS/1st_BOOKS_THUMB/t8zhdwvshaom3htbgqzr.jpg"
+        }
+    ],
+    "items_BOOK2": [
+        {
+            "title": "BOOK2_TITLE1",
+            "content": "This is the content for BOOK2 item 1.",
+            "url": "https://m.media-amazon.com/images/I/71uiEU4lC-L._AC_UF1000,1000_QL80_FMwebp_.jpg"
+        },
+        {
+            "title": "BOOK2_TITLE2",
+            "content": "This is the content for BOOK2 item 2.",
+            "url": "https://m.media-amazon.com/images/I/71uiEU4lC-L._AC_UF1000,1000_QL80_FMwebp_.jpg"
+        },
+        {
+            "title": "BOOK2_TITLE3",
+            "content": "This is the content for BOOK2 item 3.",
+            "url": "https://m.media-amazon.com/images/I/71uiEU4lC-L._AC_UF1000,1000_QL80_FMwebp_.jpg"
+        },
+        {
+            "title": "BOOK2_TITLE4",
+            "content": "This is the content for BOOK2 item 4.",
+            "url": "https://m.media-amazon.com/images/I/71uiEU4lC-L._AC_UF1000,1000_QL80_FMwebp_.jpg"
+        }
+    ],
+    "items_BOOK3": [
+        {
+            "title": "BOOK3_TITLE1",
+            "content": "This is the content for BOOK3 item 1.",
+            "url": "https://m.media-amazon.com/images/I/71uiEU4lC-L._AC_UF1000,1000_QL80_FMwebp_.jpg"
+        },
+        {
+            "title": "BOOK3_TITLE2",
+            "content": "This is the content for BOOK3 item 2.",
+            "url": "https://m.media-amazon.com/images/I/71uiEU4lC-L._AC_UF1000,1000_QL80_FMwebp_.jpg"
+        },
+        {
+            "title": "BOOK3_TITLE3",
+            "content": "This is the content for BOOK3 item 3.",
+            "url": "https://m.media-amazon.com/images/I/71uiEU4lC-L._AC_UF1000,1000_QL80_FMwebp_.jpg"
+        },
+        {
+            "title": "BOOK3_TITLE4",
+            "content": "This is the content for BOOK3 item 4.",
+            "url": "https://m.media-amazon.com/images/I/71uiEU4lC-L._AC_UF1000,1000_QL80_FMwebp_.jpg"
+        }
+    ],
+    "items_BOOK4": [
+        {
+            "title": "BOOK4_TITLE1",
+            "content": "This is the content for BOOK4 item 1.",
+            "url": "https://m.media-amazon.com/images/I/71uiEU4lC-L._AC_UF1000,1000_QL80_FMwebp_.jpg"
+        },
+        {
+            "title": "BOOK4_TITLE2",
+            "content": "This is the content for BOOK4 item 2.",
+            "url": "https://m.media-amazon.com/images/I/71uiEU4lC-L._AC_UF1000,1000_QL80_FMwebp_.jpg"
+        },
+        {
+            "title": "BOOK4_TITLE3",
+            "content": "This is the content for BOOK4 item 3.",
+            "url": "https://m.media-amazon.com/images/I/71uiEU4lC-L._AC_UF1000,1000_QL80_FMwebp_.jpg"
+        },
+        {
+            "title": "BOOK4_TITLE4",
+            "content": "This is the content for BOOK4 item 4.",
+            "url": "https://m.media-amazon.com/images/I/71uiEU4lC-L._AC_UF1000,1000_QL80_FMwebp_.jpg"
+        }
+    ]
 }
