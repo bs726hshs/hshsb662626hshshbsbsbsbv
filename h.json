@@ -13,7 +13,13 @@
             "STEP2": "https://peach-cortney-48.tiiny.io/",
             "UPLOAD": "www.google.com",
             "TITLE_S": "https://magenta-melicent-16.tiiny.io/",
-            "ASK_WEB_LINK": "https://chatgpt.com/"
+            "ASK_WEB_LINK": "https://chatgpt.com/", 
+            "share_link" : "myapp.com",
+            "Request" : "https://rq7767.blogspot.com", 
+            "About" :"https://ab7767.blogspot.com", 
+            "Rate" :"rate", 
+            "connect" :"https://cn7767.blogspot.com", 
+            "PP" :"https://pphomeostudy.blogspot.com"
         }
     ],
     "items_SLIDER": [
@@ -175,11 +181,11 @@
             "url": "https://m.media-amazon.com/images/I/71uiEU4lC-L._AC_UF1000,1000_QL80_FMwebp_.jpg"
         }
     ], 
-     "items_add": [
+     "add": [
         {
             "title": "FD Result",
-            "content": "ggggg",
-            "open":"pdf",
+            "content": "This is the content for BOOK3 item 1.",
+            "open":"",
             "url": "https://m.media-amazon.com/images/I/71uiEU4lC-L._AC_UF1000,1000_QL80_FMwebp_.jpg"
         }
     ]
