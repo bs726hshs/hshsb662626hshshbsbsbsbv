@@ -1,9 +1,14 @@
 {
     "items_HOME_BACKGROUND": [
         {
+            "header_img": "",
+            "navigation_img": "",
+            "subject_back_img": "",
+            "BOOK_header_img": "",
+            "TOOLS_header_img": "",
             "back_img" : "",
             "PDF_V": "https://cdnpff.blogspot.com/",
-            "SEARCH_INT": "https://aqua-mabel-78.tiiny.io/",
+            "SEARCH_INT": "https://indigo-bobine-53.tiiny.io/",
             "SEARCH_RS": "https://magenta-melicent-16.tiiny.io/",
             "STEP1": "https://moccasin-dacia-56.tiiny.io/",
             "STEP2": "https://peach-cortney-48.tiiny.io/",
@@ -15,8 +20,7 @@
             "About" :"https://ab7767.blogspot.com", 
             "Rate" :"rate", 
             "connect" :"https://cn7767.blogspot.com", 
-            "PP" :"https://pphomeostudy.blogspot.com", 
-            "share" :"HomeoStudy.com"
+            "PP" :"https://pphomeostudy.blogspot.com"
         }
     ],
     "items_SLIDER": [
@@ -40,13 +44,13 @@
         {
             "title": "PHYSIOLOGY",
             "content": "physiology",
-            "open":"",
+            "open":"step2",
             "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/wp-17228466837127471885842385328361.png"
         },
         {
             "title": "ANATOMY",
             "content": "anatomy",
-            "open":"",
+            "open":"g",
             "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/wp-17228466836814941186760339252466.png"
         },
         {
@@ -57,8 +61,8 @@
         },
         {
             "title": "HMM",
-            "content": "",
-            "open":"",
+            "content": "hmm1",
+            "open":"title",
             "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/wp-17228466836135396529173685020456.png"
         },
         {
