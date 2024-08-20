@@ -7,6 +7,7 @@
             "SEARCH_RS": "aHR0cHM6Ly9tYWdlbnRhLW1lbGljZW50LTE2LnRpaW55LmlvLw==",
             "STEP1": "aHR0cHM6Ly9tb2NjYXNpbi1kYWNpYS01Ni50aWlueS5pby8=",
             "STEP2": "aHR0cHM6Ly9wZWFjaC1jb3J0bmV5LTQ4LnRpaW55LmlvLw==",
+            "ads_id":"abc",
             "UPLOAD": "www.google.com",
             "TITLE_S": "aHR0cHM6Ly9tYWdlbnRhLW1lbGljZW50LTE2LnRpaW55LmlvLw==",
             "ASK_WEB_LINK": "https://chatgpt.com/",
@@ -14,6 +15,7 @@
             "Request" : "https://rq7767.blogspot.com", 
             "About" :"https://ab7767.blogspot.com",
             "connect" :"https://cn7767.blogspot.com", 
+            "token":"exa",
             "PP" :"https://pp7767.blogspot.com"
         }
     ],
