@@ -63,14 +63,14 @@
         },
         {
             "title": "Organon",
-            "content": "This is the content for the fifth item.",
-            "open":"",
+            "content": "organon",
+            "open":"title",
             "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/wp-17228466835754323857982994962188.png"
         },
         {
             "title": "Psychology",
-            "content": "This is the content for the sixth item.",
-            "open":"",
+            "content": "psychology",
+            "open":"title",
             "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/17228469948456049458324444124964.png"
         },
         {
