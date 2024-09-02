@@ -295,8 +295,8 @@
         }, 
 {
             "title": "NCH Circular",
-            "content": "This is the content for BOOK3 item 1.",
-            "open": "",
+            "content": "https://google.com",
+            "open": "web",
             "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/wp-17251239349854345864861358778862.png"
         }
     ]
