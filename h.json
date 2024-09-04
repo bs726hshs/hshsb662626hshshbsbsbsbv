@@ -22,17 +22,17 @@
     "items_SLIDER": [
         {
             "img": "https://cdn293.wordpress.com/wp-content/uploads/2024/09/feature_image8302248345756412445.jpg",
-            "type": "pdf",
+            "type": "",
             "url": "107sNfRsJX6DEpyyWbhdCxvMvN1hm9Zgb&api=AIzaSyABIgT5puprGJIV4Yn7UO41Mzn9PIyj1_Y"
         },
         {
             "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1blhMIVq-U1uYHlg1sV-2JPUgWYXRc17sHA&usqp=CAU",
-            "type": "mp4",
+            "type": "",
             "url": "https://youtu.be/B1DGKaZRDMA"
         },
         {
             "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQlQ-FTW8AAxhsyMmH6UqiVY96CmRR2k-pdg&usqp=CAU",
-            "type": "web",
+            "type": "",
             "url": "https://atlas3dapps.000webhostapp.com/botany.png"
         }
     ],
