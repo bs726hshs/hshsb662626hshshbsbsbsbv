@@ -39,8 +39,8 @@
     "items_HOME_SUBJECT_1": [
         {
             "title": "PHYSIOLOGY",
-            "content": "physiology",
-            "open": "step2",
+            "content": "physiology_chapters",
+            "open": "step1",
             "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/wp-17228466837127471885842385328361.png"
         },
         {
