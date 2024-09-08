@@ -40,13 +40,13 @@
         {
             "title": "PHYSIOLOGY",
             "content": "physiology_chapters",
-            "open": "step1",
+            "open": "",
             "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/wp-17228466837127471885842385328361.png"
         },
         {
             "title": "ANATOMY",
             "content": "anatomy_chapters",
-            "open": "step1",
+            "open": "",
             "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/wp-17228466836814941186760339252466.png"
         },
         {
@@ -64,7 +64,7 @@
         {
             "title": "ORGANON",
             "content": "1st_ORGANON",
-            "open": "step1",
+            "open": "",
             "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/4325947217402219441210023.png"
         },
         {
