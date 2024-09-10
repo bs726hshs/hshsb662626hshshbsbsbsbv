@@ -162,10 +162,16 @@
     ],
     "items_HOME_SUBJECT_3": [
         {
-            "title": "PYQs",
-            "content": "pyq3",
-            "open": "step2",
-            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/17228472936341543503335493452239.png"
+            "title": "PHYSIOLOGY",
+            "content": "physiology_chapters",
+            "open": "",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/wp-17228466837127471885842385328361.png"
+        },
+        {
+            "title": "ANATOMY",
+            "content": "anatomy_chapters",
+            "open": "",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/wp-17228466836814941186760339252466.png"
         }
     ],
     "items_HOME_SUBJECT_4": [
