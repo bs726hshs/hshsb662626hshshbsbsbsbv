@@ -39,16 +39,22 @@
     ],
     "items_HOME_SUBJECT_1": [
         {
-            "title": "PHYSIOLOGY",
-            "content": "physiology_chapters",
-            "open": "",
-            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/wp-17228466837127471885842385328361.png"
-        },
-        {
             "title": "ANATOMY - 1",
             "content": "anatomy_chapters",
             "open": "",
             "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/wp-17228466836814941186760339252466.png"
+        },
+{
+            "title": "ANATOMY - 2",
+            "content": "anatomy_chapters",
+            "open": "",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/wp-17228466836814941186760339252466.png"
+        },
+{
+            "title": "PHYSIOLOGY",
+            "content": "physiology_chapters",
+            "open": "",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/wp-17228466837127471885842385328361.png"
         },
         {
             "title": "PHARMACY",
