@@ -255,18 +255,48 @@
     ],
     "items_BOOK3": [
         {
-            "title": "BOOK3_TITLE1",
-            "content": "This is the content for BOOK3 item 1.",
-            "open": "",
-            "url": "https://m.media-amazon.com/images/I/71uiEU4lC-L._AC_UF1000,1000_QL80_FMwebp_.jpg"
+            "title": "Forensic medicine",
+            "content": "BOOKS_FMT_SINGHAL",
+            "open": "step1",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/09/img_20240917_125748424557013126107032.jpg"
+        },
+{
+            "title": "TOXICOLOGY BOOK",
+            "content": "BOOKS_TOXI_SINGHAL",
+            "open": "step1",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/09/images2868297091072502744281628.jpg"
+        },
+{
+            "title": "MICROBIOLOGY BOOK",
+            "content": "BOOKS_MICRO_NARAYAN",
+            "open": "step1",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/09/images2868293082350441711809879.jpg"
         }
     ],
     "items_BOOK4": [
         {
-            "title": "BOOK4_TITLE1",
-            "content": "This is the content for BOOK4 item 1.",
+            "title": "PHYSIOLOGY",
+            "content": "BOOKS_SEMBULIGAM",
+            "open": "step1",
+            "url": "https://covers.openlibrary.org/b/id/7953587-L.jpg"
+        },
+        {
+            "title": "kala",
+            "content": "BOOKS_PHARM_BANERJE",
+            "open": "step1",
+            "url": "https://ia800505.us.archive.org/view_archive.php?archive=/5/items/m_covers_0012/m_covers_0012_54.zip&file=0012543106-M.jpg"
+        },
+        {
+            "title": "Organon - yogi",
+            "content": "13UKNEHeCRhN2G41a-822Zwwp9ge3v5RZ",
             "open": "",
-            "url": "https://m.media-amazon.com/images/I/71uiEU4lC-L._AC_UF1000,1000_QL80_FMwebp_.jpg"
+            "url": "https://covers.openlibrary.org/b/id/1046217-M.jpg"
+        },
+        {
+            "title": "Cleopatra",
+            "content": "BOOKS_BIOCHEMIC_DUBEY",
+            "open": "step1",
+            "url": "https://covers.openlibrary.org/b/id/1748730-M.jpg"
         }
     ],
     "items_add": [
