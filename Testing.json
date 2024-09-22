@@ -1,1 +1,346 @@
-Ghhh
+{
+    "items_HOME_BACKGROUND": [
+        {
+            "back_img": "9.jpg",
+            "PDF_V": "aHR0cHM6Ly9ob21lb3N0dWR5LnJmLmdkLzEvMS5odG1s",
+            "SEARCH_INT": "aHR0cHM6Ly9pbmRpZ28tYm9iaW5lLTUzLnRpaW55LmlvLw==",
+            "SEARCH_RS": "aHR0cHM6Ly9ncmF5LXZlcmUtOTIudGlpbnkuaW8v",
+            "STEP1": "aHR0cHM6Ly9tb2NjYXNpbi1kYWNpYS01Ni50aWlueS5pby8=",
+            "STEP2": "aHR0cHM6Ly9wZWFjaC1jb3J0bmV5LTQ4LnRpaW55LmlvLw==",
+            "ads_id": "dHJ1ZQ==",
+            "UPLOAD": "https://www.google.com/intl/en_in/drive/",
+            "bookM": "https://crimson-oliy-91.tiiny.io/",
+            "ASK_WEB_LINK": "https://homeostudy.rf.gd/2/Quize.html?i=1",
+            "share": "https://play.google.com/store/apps/details?id=com.homeostudy.in",
+            "Request": "https://homeostudy.rf.gd/1/request.html",
+            "About": "https://sites.google.com/view/homeostudy-aboutus/home",
+            "connect": "https://homeostudy.rf.gd/1/connect.html",
+            "token": "1aeiou1",
+"bks" : "T",
+            "PP": "https://sites.google.com/view/homeostudy-privacypolicy"
+        }
+    ],
+    "items_SLIDER": [
+        {
+            "img": "https://cdn293.wordpress.com/wp-content/uploads/2024/09/screenshot_2024-09-04-19-46-37-596-edit_com4616014691577656433.jpg",
+            "type": "",
+            "url": "107sNfRsJX6DEpyyWbhdCxvMvN1hm9Zgb&api=AIzaSyABIgT5puprGJIV4Yn7UO41Mzn9PIyj1_Y"
+        },
+        {
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1blhMIVq-U1uYHlg1sV-2JPUgWYXRc17sHA&usqp=CAU",
+            "type": "",
+            "url": "https://youtu.be/B1DGKaZRDMA"
+        },
+        {
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQlQ-FTW8AAxhsyMmH6UqiVY96CmRR2k-pdg&usqp=CAU",
+            "type": "",
+            "url": "https://atlas3dapps.000webhostapp.com/botany.png"
+        }
+    ],
+    "items_HOME_SUBJECT_1": [
+        {
+            "title": "ANATOMY - 1",
+            "content": "anatomy_1",
+            "open": "",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/wp-17228466836814941186760339252466.png"
+        },
+{
+            "title": "ANATOMY - 2",
+            "content": "anatomy_chapters",
+            "open": "",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/wp-17228466836814941186760339252466.png"
+        },
+{
+            "title": "PHYSIOLOGY",
+            "content": "physiology_chapters",
+            "open": "",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/wp-17228466837127471885842385328361.png"
+        },
+        {
+            "title": "PHARMACY",
+            "content": "pharmacy",
+            "open": "title",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/wp-17228466836471092450086331690059.png"
+        },
+        {
+            "title": "HMM",
+            "content": "1st_HMM",
+            "open": "",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/wp-17228466836135396529173685020456.png"
+        },
+        {
+            "title": "ORGANON",
+            "content": "1st_ORGANON",
+            "open": "",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/4325947217402219441210023.png"
+        },
+        {
+            "title": "PSYCHOLOGY",
+            "content": "1st_Psychology",
+            "open": "",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/17228469948456049458324444124964.png"
+        },
+        {
+            "title": "PYQs",
+            "content": "pyq1",
+            "open": "",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/17228472936341543503335493452239.png"
+        },
+        {
+            "title": "CBDC",
+            "content": "CBDC_1st",
+            "open": "",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/circular-economy-icon9165936184469925193.png"
+        },
+        {
+            "title": "Pharmacy Practical",
+            "content": "pharmacy practical",
+            "open": "title",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/17244415828812210927483717352190.png"
+        }
+    ],
+    "items_HOME_SUBJECT_2": [
+        {
+            "title": "PATHOLOGY",
+            "content": "patho",
+            "open": "title",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/41490434442091901076409451.png"
+        },
+        {
+            "title": "FORENSIC MEDICINE",
+            "content": "fmt",
+            "open": "title",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/33572573883732541465177513.png"
+        },
+        {
+            "title": "OBGY",
+            "content": "obgy",
+            "open": "title",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/121061976819798861490259289.png"
+        },
+        {
+            "title": "SURGERY",
+            "content": "surgery",
+            "open": "title",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/72772265734950467539896324.png"
+        },
+        {
+            "title": "HMM",
+            "content": "hmm",
+            "open": "title",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/wp-17228466836135396529173685020456.png"
+        },
+        {
+            "title": "ORGANON",
+            "content": "organon",
+            "open": "title",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/4325947217402219441210023.png"
+        },
+        {
+            "title": "REPERTORY",
+            "content": "repertory",
+            "open": "title",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/2245952731433522999931420.png"
+        },
+        {
+            "title": "CBDC",
+            "content": "CBDC_2nd",
+            "open": "",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/circular-economy-icon9165936184469925193.png"
+        },    
+{
+            "title": "PYQs",
+            "content": "pyq2",
+            "open": "",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/17228472936341543503335493452239.png"
+        }
+    ],
+    "items_HOME_SUBJECT_3": [
+{
+            "title": "PYQs",
+            "content": "pyq3",
+            "open": "",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/17228472936341543503335493452239.png"
+        }
+    ],
+    "items_HOME_SUBJECT_4": [
+        {
+            "title": "PYQs",
+            "content": "pyq4",
+            "open": "",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/17228472936341543503335493452239.png"
+        }
+    ],
+    "items_BOOK1": [
+        {
+            "title": "SEMBULINGAM",
+            "content": "BOOKS_SEMBULIGAM",
+            "open": "step1",
+            "url": "https://res.cloudinary.com/dfw1af3io/image/upload/v1720861591/HOME_THUMBNAILS/1st_BOOKS_THUMB/lmgnocftbfbeyyquy7tb.jpg"
+        },
+        {
+            "title": "PHARMACY (BANERJEE)",
+            "content": "BOOKS_PHARM_BANERJE",
+            "open": "step1",
+            "url": "https://res.cloudinary.com/dfw1af3io/image/upload/v1720861590/HOME_THUMBNAILS/1st_BOOKS_THUMB/tsverviskfxlfpom6rm2.jpg"
+        },
+        {
+            "title": "ORGANON (NAGENDRA)",
+            "content": "13UKNEHeCRhN2G41a-822Zwwp9ge3v5RZ",
+            "open": "",
+            "url": "https://res.cloudinary.com/dfw1af3io/image/upload/v1720861590/HOME_THUMBNAILS/1st_BOOKS_THUMB/kprpq8lz0ttw9zm0ilon.jpg"
+        },
+{
+            "title": "HMM (DUBEY)",
+            "content": "BOOKS_HMM_DUBEY",
+            "open": "step1",
+            "url": "https://res.cloudinary.com/dfw1af3io/image/upload/v1720861590/HOME_THUMBNAILS/1st_BOOKS_THUMB/izgrgf4vtmubkcjdl74s.jpg"
+        },
+        {
+            "title": "BIOCHEMICS (DUBEY)",
+            "content": "BOOKS_BIOCHEMIC_DUBEY",
+            "open": "step1",
+            "url": "https://res.cloudinary.com/dfw1af3io/image/upload/v1720861590/HOME_THUMBNAILS/1st_BOOKS_THUMB/izgrgf4vtmubkcjdl74s.jpg"
+        },
+{
+            "title": "ALLEN'S KEYNOTE",
+            "content": "1M4QsK753BPmRI130Iwfb8eVuQJ25sshf",
+            "open": "",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/71uwgarms2bl967232181090151823.jpg"
+        },
+{
+            "title": "HMM (J.D PATIL)",
+            "content": "1MVbfnDk2lNntEUbQjDQiFzOax6w2WBYC",
+            "open": "",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/images2877293316816093634839975.jpg"
+        },
+{
+            "title": "PSYCHOLOGY - SUMIT GOEL",
+            "content": "BOOKS_PSY_SUMIT",
+            "open": "step1",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/09/61mgu5qv6pl3763081512136438264.jpg"
+        },
+        {
+            "title": "BD CHAURASIA V1",
+            "content": "BOOKS_BD_1",
+            "open": "step1",
+            "url": "https://res.cloudinary.com/dfw1af3io/image/upload/v1720862443/BD_1_e3kfx1.jpg"
+        },
+        {
+            "title": "BD CHAURASIA V2",
+            "content": "BOOKS_BD_2",
+            "open": "step1",
+            "url": "https://res.cloudinary.com/dfw1af3io/image/upload/v1720862454/BD_2_vwzure.jpg"
+        },
+        {
+            "title": "BD CHAURASIA V3",
+            "content": "BOOKS_BD_3",
+            "open": "step1",
+            "url": "https://res.cloudinary.com/dfw1af3io/image/upload/v1720861590/HOME_THUMBNAILS/1st_BOOKS_THUMB/wns3zjkzashg3dfv0ydk.jpg"
+        },
+        {
+            "title": "BD CHAURASIA V4",
+            "content": "BOOKS_BD_4",
+            "open": "step1",
+            "url": "https://res.cloudinary.com/dfw1af3io/image/upload/v1720861591/HOME_THUMBNAILS/1st_BOOKS_THUMB/t8zhdwvshaom3htbgqzr.jpg"
+        },
+{
+            "title": "BD CHAURASIA - GEN",
+            "content": "BOOKS_BD_GEN",
+            "open": "step1",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/09/61fbnnjgyzl1906589943048915951.jpg"
+        }
+    ],
+    "items_BOOK2": [
+        {
+            "title": "PATHOLOGY",
+            "content": "BOOKS_HARSH_MOHAN",
+            "open": "step1",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/images287629122917946982819038.jpg"
+        },
+{
+            "title": "FMT - RAJESH BARDALE",
+            "content": "BOOKS_FORENSIC_RAJESH",
+            "open": "step1",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/09/512bkvjcpfsl7732594068447443207.jpg"
+        },
+{
+            "title": "CLINICAL METHODS",
+            "content": "BOOKS_HUTCHISON",
+            "open": "step1",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/09/cover-97807020674026620353813932515856.jpg"
+        },
+{
+            "title": "FMT - SINGHAL",
+            "content": "BOOKS_FMT_SINGHAL",
+            "open": "step1",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/09/img_20240917_125748424557013126107032.jpg"
+        },
+{
+            "title": "TOXICOLOGY - SINGHAL",
+            "content": "BOOKS_TOXI_SINGHAL",
+            "open": "step1",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/09/images2868297091072502744281628.jpg"
+        },
+{
+            "title": "MICROBIOLOGY (NARAYAN)",
+            "content": "BOOKS_MICRO_NARAYAN",
+            "open": "step1",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/09/images2868293082350441711809879.jpg"
+        },
+{
+            "title": "FORENSIC MEDICINE (GAUTAM)",
+            "content": "BOOKS_FM_GAUTAM",
+            "open": "step1",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/09/20240920_2346015402087063082221126.jpg"
+        },
+{
+            "title": "TOXICOLOGY (GAUTAM)",
+            "content": "BOOKS_TOXI_GAUTAM",
+            "open": "step1",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/09/20240920_2346183742367556422272652.jpg"
+        }
+    ],
+    "items_BOOK3": [
+        {
+            "title": "BOOK3_TITLE1",
+            "content": "This is the content for BOOK3 item 1.",
+            "open": "",
+            "url": "https://m.media-amazon.com/images/I/71uiEU4lC-L._AC_UF1000,1000_QL80_FMwebp_.jpg"
+        }
+    ],
+    "items_BOOK4": [
+        {
+            "title": "BOOK4_TITLE1",
+            "content": "This is the content for BOOK4 item 1.",
+            "open": "",
+            "url": "https://m.media-amazon.com/images/I/71uiEU4lC-L._AC_UF1000,1000_QL80_FMwebp_.jpg"
+        }
+    ],
+    "items_add": [
+        {
+            "title": "First Year Result",
+            "content": "1WEMPMcK-QdJlQ5E8uzYxsG6AX90n5Crq",
+            "open": "pdf",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/wp-17251239349854345864861358778862.png"
+        },
+{
+            "title": "Second Year Result",
+            "content": "1WH1Gqx7pBq2yIoAkoUQU8vGbqYGlJ0Or",
+            "open": "pdf",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/wp-17251239349854345864861358778862.png"
+        },
+{
+            "title": "Third Year Result",
+            "content": "1WHWnNPLmW9FdS3nlXWt856wlDXE4wpwM",
+            "open": "pdf",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/wp-17251239349854345864861358778862.png"
+        },
+{
+            "title": "Fourth Year Result",
+            "content": "1WUxUibhYUGMUy8eG0YJLx095fK88Jb9a",
+            "open": "pdf",
+            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/wp-17251239349854345864861358778862.png"
+        }
+    ]
+}
