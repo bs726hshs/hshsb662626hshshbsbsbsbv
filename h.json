@@ -190,114 +190,12 @@
         }
     ],
     "items_BOOK1": [
-        {
-            "title": "PHYSIOLOGY",
-            "content": "BOOKS_SEMBULIGAM",
-            "open": "step1",
-            "url": "https://res.cloudinary.com/dfw1af3io/image/upload/v1720861591/HOME_THUMBNAILS/1st_BOOKS_THUMB/lmgnocftbfbeyyquy7tb.jpg"
-        },
-        {
-            "title": "PHARMACY",
-            "content": "BOOKS_PHARM_BANERJE",
-            "open": "step1",
-            "url": "https://res.cloudinary.com/dfw1af3io/image/upload/v1720861590/HOME_THUMBNAILS/1st_BOOKS_THUMB/tsverviskfxlfpom6rm2.jpg"
-        },
-        {
-            "title": "ORGANON",
-            "content": "13UKNEHeCRhN2G41a-822Zwwp9ge3v5RZ",
-            "open": "",
-            "url": "https://res.cloudinary.com/dfw1af3io/image/upload/v1720861590/HOME_THUMBNAILS/1st_BOOKS_THUMB/kprpq8lz0ttw9zm0ilon.jpg"
-        },
-        {
-            "title": "BIOCHEMICS",
-            "content": "BOOKS_BIOCHEMIC_DUBEY",
-            "open": "step1",
-            "url": "https://res.cloudinary.com/dfw1af3io/image/upload/v1720861590/HOME_THUMBNAILS/1st_BOOKS_THUMB/izgrgf4vtmubkcjdl74s.jpg"
-        },
-{
-            "title": "PSYCHOLOGY",
-            "content": "BOOKS_PSY_SUMIT",
-            "open": "step1",
-            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/09/61mgu5qv6pl3763081512136438264.jpg"
-        }
     ],
     "items_BOOK2": [
-        {
-            "title": "PATHOLOGY",
-            "content": "BOOKS_HARSH_MOHAN",
-            "open": "step1",
-            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/08/images287629122917946982819038.jpg"
-        },
-{
-            "title": "FMT Book",
-            "content": "BOOKS_FORENSIC_RAJESH",
-            "open": "step1",
-            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/09/512bkvjcpfsl7732594068447443207.jpg"
-        },
-{
-            "title": "Forensic medicine",
-            "content": "BOOKS_FMT_SINGHAL",
-            "open": "step1",
-            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/09/img_20240917_125748424557013126107032.jpg"
-        },
-{
-            "title": "TOXICOLOGY BOOK",
-            "content": "BOOKS_TOXI_SINGHAL",
-            "open": "step1",
-            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/09/images2868297091072502744281628.jpg"
-        },
-{
-            "title": "MICROBIOLOGY BOOK",
-            "content": "BOOKS_MICRO_NARAYAN",
-            "open": "step1",
-            "url": "https://cdn293.wordpress.com/wp-content/uploads/2024/09/images2868293082350441711809879.jpg"
-        }
     ],
     "items_BOOK3": [
-        {
-            "title": "Micro and richard",
-            "content": "BOOKS_FMT_SINGHAL",
-            "open": "step1",
-            "url": "https://ia800505.us.archive.org/view_archive.php?archive=/5/items/m_covers_0012/m_covers_0012_00.zip&file=0012007731-M.jpg"
-        },
-{
-            "title": "Self Heal",
-            "content": "BOOKS_TOXI_SINGHAL",
-            "open": "step1",
-            "url": "https://ia600502.us.archive.org/view_archive.php?archive=/31/items/m_covers_0013/m_covers_0013_27.zip&file=0013271436-M.jpg"
-        },
-{
-            "title": "MICROBIOLOGY ECONOMIC",
-            "content": "BOOKS_MICRO_NARAYAN",
-            "open": "step1",
-            "url": "https://covers.openlibrary.org/b/id/252141-M.jpg"
-        }
     ],
     "items_BOOK4": [
-        {
-            "title": "PHYSIOLOGY",
-            "content": "BOOKS_SEMBULIGAM",
-            "open": "step1",
-            "url": "https://covers.openlibrary.org/b/id/7953587-L.jpg"
-        },
-        {
-            "title": "kala",
-            "content": "BOOKS_PHARM_BANERJE",
-            "open": "step1",
-            "url": "https://ia800505.us.archive.org/view_archive.php?archive=/5/items/m_covers_0012/m_covers_0012_54.zip&file=0012543106-M.jpg"
-        },
-        {
-            "title": "Organon - yogi",
-            "content": "13UKNEHeCRhN2G41a-822Zwwp9ge3v5RZ",
-            "open": "",
-            "url": "https://covers.openlibrary.org/b/id/1046217-M.jpg"
-        },
-        {
-            "title": "Cleopatra",
-            "content": "BOOKS_BIOCHEMIC_DUBEY",
-            "open": "step1",
-            "url": "https://covers.openlibrary.org/b/id/1748730-M.jpg"
-        }
     ],
     "items_add": [
         {
