@@ -1,0 +1,24 @@
+::::::::::HomeoBooks:::::::::::::
+
+App : HomeoBooks
+ads_id : true
+token : true
+more apps :
+Rate :
+Privacy policy :
+Contact us : 
+Website :
+Connect us : 
+Share : 
+token_1: https://
+token_2: com
+token_3: accessed
+
+FORMAT FOR JSON
+{
+B_title:
+B_code:
+B_img:
+}
+
+-----------------------------------------------------
