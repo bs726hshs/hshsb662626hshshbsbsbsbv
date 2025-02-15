@@ -1,0 +1,72 @@
+{
+    "image_slider": [
+        {
+            "img": "www.img.com",
+            "sendData": "1"
+        },
+        {
+            "img": "www.img.com",
+            "sendData": "1"
+        },
+        {
+            "img": "www.img.com",
+            "sendData": "1"
+        }
+    ],
+    "subject_1": [
+        {
+            "name": "anatomy",
+            "img": "www.img.com",
+            "color": "#FFFFFF",
+            "sendData": "1"
+        },
+        {
+            "name": "anatomy",
+            "img": "www.img.com",
+            "color": "#FFFFFF",
+            "sendData": "1"
+        }
+    ],
+    "subject_2": [
+        {
+            "name": "pathology",
+            "img": "www.img.com",
+            "color": "#FFFFFF",
+            "sendData": "1"
+        },
+        {
+            "name": "surgery",
+            "img": "www.img.com",
+            "color": "#FFFFFF",
+            "sendData": "1"
+        }
+    ],
+    "subject_3": [
+        {
+            "name": "forensic",
+            "img": "www.img.com",
+            "color": "#FFFFFF",
+            "sendData": "1"
+        },
+        {
+            "name": "organon",
+            "img": "www.img.com",
+            "color": "#FFFFFF",
+            "sendData": "1"
+        }
+    ],
+    "subject_4": [
+        {
+            "name": "geography",
+            "img": "www.img.com",
+            "color": "#FFFFFF",
+            "sendData": "1"
+        },
+        {
+            "name": "medicine",
+            "img": "www.img.com",
+            "color": "#FFFFFF",
+            "sendData": "1"
+        }
+    ]
+}
