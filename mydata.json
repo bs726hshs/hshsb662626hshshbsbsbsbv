@@ -13,7 +13,7 @@
             "sendData": "1"
         }
     ],
-    "subject_1": [
+    "subject_1_A": [
         {
             "name": "anatomy",
             "img": "https://cdn293.wordpress.com/wp-content/uploads/2025/02/wp-17392099040218379976469278009167.png",
@@ -27,7 +27,7 @@
             "sendData": "1"
         }
     ],
-    "subject_2": [
+    "subject_2_O": [
         {
             "name": "pathology",
             "img": https://cdn293.wordpress.com/wp-content/uploads/2025/02/wp-17392099041536610068869856060941.png",
@@ -41,7 +41,7 @@
             "sendData": "1"
         }
     ],
-    "subject_3": [
+    "subject_3_Y": [
         {
             "name": "forensic",
             "img": "https://cdn293.wordpress.com/wp-content/uploads/2025/02/wp-17392099042708762346587914866538.png",
@@ -55,7 +55,7 @@
             "sendData": "1"
         }
     ],
-    "subject_4": [
+    "subject_4_K": [
         {
             "name": "geography",
             "img": "https://cdn293.wordpress.com/wp-content/uploads/2025/02/wp-17392099042708762346587914866538.png",
