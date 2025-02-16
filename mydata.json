@@ -2,15 +2,15 @@
     "image_slider": [
         {
             "img": "https://cdn293.wordpress.com/wp-content/uploads/2025/02/wp-17392103075172258481016686208561.jpg",
-            "sendData": "1"
+            "sendData": "slide1"
         },
         {
             "img": "https://cdn293.wordpress.com/wp-content/uploads/2025/02/wp-1739210307408738065672120396180.jpg",
-            "sendData": "1"
+            "sendData": "slide2"
         },
         {
             "img": "https://cdn293.wordpress.com/wp-content/uploads/2025/02/wp-17392103072864622689961532944044.jpg",
-            "sendData": "1"
+            "sendData": "slide3"
         }
     ],
     "subject_1_A": [
@@ -18,13 +18,13 @@
             "name": "anatomy",
             "img": "https://cdn293.wordpress.com/wp-content/uploads/2025/02/wp-17392099040218379976469278009167.png",
             "color": "#FFFFFF",
-            "sendData": "1"
+            "sendData": "1A"
         },
         {
             "name": "physiology",
             "img": "https://cdn293.wordpress.com/wp-content/uploads/2025/02/wp-17392099041536610068869856060941.png",
             "color": "#FFFFFF",
-            "sendData": "1"
+            "sendData": "2A"
         }
     ],
     "subject_2_O": [
@@ -32,13 +32,13 @@
             "name": "pathology",
             "img": "https://cdn293.wordpress.com/wp-content/uploads/2025/02/wp-17392099041536610068869856060941.png",
             "color": "#FFFFFF",
-            "sendData": "1"
+            "sendData": "3A"
         },
         {
             "name": "surgery",
             "img": "https://cdn293.wordpress.com/wp-content/uploads/2025/02/wp-17392099042708762346587914866538.png",
             "color": "#FFFFFF",
-            "sendData": "1"
+            "sendData": "3B"
         }
     ],
     "subject_3_Y": [
@@ -46,13 +46,13 @@
             "name": "forensic",
             "img": "https://cdn293.wordpress.com/wp-content/uploads/2025/02/wp-17392099042708762346587914866538.png",
             "color": "#FFFFFF",
-            "sendData": "1"
+            "sendData": "C1"
         },
         {
             "name": "organon",
             "img": "https://cdn293.wordpress.com/wp-content/uploads/2025/02/wp-17392099041536610068869856060941.png",
             "color": "#FFFFFF",
-            "sendData": "1"
+            "sendData": "C2"
         }
     ],
     "subject_4_K": [
@@ -60,13 +60,13 @@
             "name": "geography",
             "img": "https://cdn293.wordpress.com/wp-content/uploads/2025/02/wp-17392099042708762346587914866538.png",
             "color": "#FFFFFF",
-            "sendData": "1"
+            "sendData": "C3"
         },
         {
             "name": "medicine",
             "img": "https://cdn293.wordpress.com/wp-content/uploads/2025/02/wp-17392099041536610068869856060941.png",
             "color": "#FFFFFF",
-            "sendData": "1"
+            "sendData": "C4"
         }
     ]
 }
