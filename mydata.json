@@ -15,13 +15,13 @@
     ],
     "subject_1_A": [
         {
-            "name": "anatomy",
+            "name": "ANATOMY",
             "img": "https://cdn293.wordpress.com/wp-content/uploads/2025/02/wp-17392099040218379976469278009167.png",
-            "color": "#FFFFFF",
+            "color": "#FFFFFF,#000000",
             "sendData": "13324"
         },
         {
-            "name": "physiology",
+            "name": "PHYSIOLOGY",
             "img": "https://cdn293.wordpress.com/wp-content/uploads/2025/02/wp-17392099041536610068869856060941.png",
             "color": "#FFFFFF",
             "sendData": "2frdd"
