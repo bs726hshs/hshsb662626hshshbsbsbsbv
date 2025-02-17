@@ -22,13 +22,31 @@
         },
         {
             "name": "PHYSIOLOGY",
-            "img": "https://cdn293.wordpress.com/wp-content/uploads/2025/02/wp-17392099041536610068869856060941.png",
+            "img": "https://cdn293.wordpress.com/wp-content/uploads/2025/02/wp-17392099042708762346587914866538.png",
             "color": "#FFFFFF",
             "sendData": "2frdd"
         },
         {
             "name": "PHARMACY",
+            "img": "https://cdn293.wordpress.com/wp-content/uploads/2025/02/wp-17392099042116971268732686235618.png",
+            "color": "#FFFFFF",
+            "sendData": "2frdd"
+        },
+        {
+            "name": "MATERIA MEDICA (H)",
+            "img": "https://cdn293.wordpress.com/wp-content/uploads/2025/02/wp-17392099040958343217302126258328.png",
+            "color": "#FFFFFF",
+            "sendData": "2frdd"
+        },
+        {
+            "name": "ORGANON",
             "img": "https://cdn293.wordpress.com/wp-content/uploads/2025/02/wp-17392099041536610068869856060941.png",
+            "color": "#FFFFFF",
+            "sendData": "2frdd"
+        },
+        {
+            "name": "PYQ PAPERS",
+            "img": "https://cdn293.wordpress.com/wp-content/uploads/2025/02/wp-17392101891712415173333734834951.png",
             "color": "#FFFFFF",
             "sendData": "2frdd"
         }
