@@ -232,31 +232,31 @@ body {
 
 /* =========================
    DARK MODE
-   =========================
-   
-   IMPORTANT:
-   Do NOT put background on html.
-   This keeps Kodular WebViewer transparent.
-   
-   The invert filter is applied to the
-   content instead of html.
    ========================= */
 
+/* Keep the WebViewer background transparent */
 html.dark-mode,
 html.dark-mode body {
     background: transparent !important;
 }
 
 
-/* Dark mode content */
+/*
+   #E7E5E0 is the inverse of #181A1F.
+   After the body invert filter it becomes #181A1F.
+*/
+html.dark-mode .home-button {
+    background: #E7E5E0 !important;
+}
 
+
+/* Dark mode content inversion */
 html.dark-mode body {
     filter: invert(1) hue-rotate(180deg) !important;
 }
 
 
-/* Restore images/media after body inversion */
-
+/* Restore images/media */
 html.dark-mode img,
 html.dark-mode video,
 html.dark-mode iframe,
@@ -294,11 +294,10 @@ html.dark-mode svg {
         Quick Access
     </div>
 
-
     <div class="button-grid">
 
 
-        <!-- 1 -->
+        <!-- 1. REMEDIES -->
         <div class="home-button blue"
              onclick="buttonClick('Remedies')">
 
@@ -321,7 +320,7 @@ html.dark-mode svg {
         </div>
 
 
-        <!-- 2 -->
+        <!-- 2. MATERIA MEDICA -->
         <div class="home-button green"
              onclick="buttonClick('Materia Medica')">
 
@@ -344,7 +343,7 @@ html.dark-mode svg {
         </div>
 
 
-        <!-- 3 -->
+        <!-- 3. REPERTORY -->
         <div class="home-button orange"
              onclick="buttonClick('Repertory')">
 
@@ -367,7 +366,7 @@ html.dark-mode svg {
         </div>
 
 
-        <!-- 4 -->
+        <!-- 4. APHORISMS -->
         <div class="home-button purple"
              onclick="buttonClick('Aphorisms')">
 
@@ -390,7 +389,7 @@ html.dark-mode svg {
         </div>
 
 
-        <!-- 5 -->
+        <!-- 5. COURSES -->
         <div class="home-button pink"
              onclick="buttonClick('Courses')">
 
@@ -413,7 +412,7 @@ html.dark-mode svg {
         </div>
 
 
-        <!-- 6 -->
+        <!-- 6. COLLEGES -->
         <div class="home-button teal"
              onclick="buttonClick('Colleges')">
 
@@ -436,7 +435,7 @@ html.dark-mode svg {
         </div>
 
 
-        <!-- 7 -->
+        <!-- 7. PRESCRIBERS -->
         <div class="home-button red"
              onclick="buttonClick('Prescribers')">
 
@@ -459,7 +458,7 @@ html.dark-mode svg {
         </div>
 
 
-        <!-- 8 -->
+        <!-- 8. BOOKS -->
         <div class="home-button indigo"
              onclick="buttonClick('Books')">
 
@@ -482,7 +481,7 @@ html.dark-mode svg {
         </div>
 
 
-        <!-- WIDE BUTTON -->
+        <!-- 9. FAVORITES -->
         <div class="home-button wide blue"
              onclick="buttonClick('Favorites')">
 
@@ -504,7 +503,6 @@ html.dark-mode svg {
 
         </div>
 
-
     </div>
 
 </div>
@@ -513,10 +511,6 @@ html.dark-mode svg {
 <script>
 
 function buttonClick(name) {
-
-    /*
-       Kodular WebViewer JavaScript interface
-    */
 
     if (window.AppInventor) {
         window.AppInventor.setWebViewString(name);
