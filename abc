@@ -7,9 +7,9 @@
 
 <style>
 
-/* =========================
+/* =====================================================
    MATERIAL SYMBOLS
-   ========================= */
+   ===================================================== */
 
 @font-face {
     font-family: 'Material Symbols Rounded';
@@ -35,9 +35,9 @@
 }
 
 
-/* =========================
+/* =====================================================
    BASE
-   ========================= */
+   ===================================================== */
 
 * {
     box-sizing: border-box;
@@ -57,9 +57,9 @@ body {
 }
 
 
-/* =========================
-   HOME SECTION
-   ========================= */
+/* =====================================================
+   HOME
+   ===================================================== */
 
 .home-section {
     width: 100%;
@@ -73,9 +73,9 @@ body {
 }
 
 
-/* =========================
-   BUTTON GRID
-   ========================= */
+/* =====================================================
+   GRID
+   ===================================================== */
 
 .button-grid {
     display: grid;
@@ -84,16 +84,21 @@ body {
 }
 
 
-/* =========================
-   HOME BUTTON
-   ========================= */
+/* =====================================================
+   CARDS
+   ===================================================== */
 
 .home-button {
     position: relative;
+
     min-height: 105px;
+
     border-radius: 20px;
+
     background: #ffffff;
+
     border: 1px solid #edf0f4;
+
     padding: 16px;
 
     display: flex;
@@ -119,9 +124,9 @@ body {
 }
 
 
-/* =========================
-   ICON BOX
-   ========================= */
+/* =====================================================
+   ICON
+   ===================================================== */
 
 .icon-box {
     width: 42px;
@@ -142,28 +147,33 @@ body {
 }
 
 
-/* =========================
+/* =====================================================
    TEXT
-   ========================= */
+   ===================================================== */
 
 .button-name {
     font-size: 15px;
     font-weight: 700;
+
     margin-top: 12px;
+
     color: #252a34;
 }
 
 .button-subtitle {
     font-size: 11px;
+
     margin-top: 4px;
+
     color: #858b98;
+
     font-weight: 500;
 }
 
 
-/* =========================
+/* =====================================================
    ICON COLORS
-   ========================= */
+   ===================================================== */
 
 .blue .icon-box {
     background: #eef3ff;
@@ -206,16 +216,19 @@ body {
 }
 
 
-/* =========================
-   WIDE BUTTON
-   ========================= */
+/* =====================================================
+   WIDE CARD
+   ===================================================== */
 
 .wide {
     grid-column: span 2;
+
     min-height: 82px;
 
     flex-direction: row;
+
     align-items: center;
+
     justify-content: flex-start;
 
     gap: 14px;
@@ -230,45 +243,83 @@ body {
 }
 
 
-/* =========================
-   DARK MODE
-   ========================= */
+/* =====================================================
+   DARK MODE OVERRIDE
+   =====================================================
 
-/* Keep the WebViewer background transparent */
-html.dark-mode,
-html.dark-mode body {
+   Kodular's injected dark mode normally does:
+
+   html {
+       background: #000 !important;
+       filter: invert(1) hue-rotate(180deg) !important;
+   }
+
+   We override BOTH here.
+
+   ===================================================== */
+
+
+/* Remove dark-mode background */
+html {
     background: transparent !important;
 }
 
 
+/* Remove the inversion applied to the whole page */
+html {
+    filter: none !important;
+}
+
+
+/* Keep body transparent */
+body {
+    background: transparent !important;
+}
+
+
+/* =====================================================
+   DARK CARD
+   ===================================================== */
+
 /*
-   #E7E5E0 is the inverse of #181A1F.
-   After the body invert filter it becomes #181A1F.
+   This is the important part.
+
+   When the external dark-mode CSS is active,
+   cards become exactly:
+
+   #181A1F
 */
-html.dark-mode .home-button {
-    background: #E7E5E0 !important;
+
+.home-button {
+    background: #181A1F !important;
+
+    border-color: #292C33 !important;
+
+    box-shadow:
+        0 3px 12px rgba(0, 0, 0, 0.20);
 }
 
 
-/* Dark mode content inversion */
-html.dark-mode body {
-    filter: invert(1) hue-rotate(180deg) !important;
+/* =====================================================
+   DARK TEXT
+   ===================================================== */
+
+.section-title {
+    color: #F1F3F5;
+}
+
+.button-name {
+    color: #F1F3F5;
+}
+
+.button-subtitle {
+    color: #9BA1AC;
 }
 
 
-/* Restore images/media */
-html.dark-mode img,
-html.dark-mode video,
-html.dark-mode iframe,
-html.dark-mode canvas,
-html.dark-mode svg {
-    filter: invert(1) hue-rotate(180deg) !important;
-}
-
-
-/* =========================
+/* =====================================================
    RESPONSIVE
-   ========================= */
+   ===================================================== */
 
 @media (min-width: 600px) {
 
@@ -294,10 +345,11 @@ html.dark-mode svg {
         Quick Access
     </div>
 
+
     <div class="button-grid">
 
 
-        <!-- 1. REMEDIES -->
+        <!-- 1 REMEDIES -->
         <div class="home-button blue"
              onclick="buttonClick('Remedies')">
 
@@ -320,7 +372,7 @@ html.dark-mode svg {
         </div>
 
 
-        <!-- 2. MATERIA MEDICA -->
+        <!-- 2 MATERIA MEDICA -->
         <div class="home-button green"
              onclick="buttonClick('Materia Medica')">
 
@@ -343,7 +395,7 @@ html.dark-mode svg {
         </div>
 
 
-        <!-- 3. REPERTORY -->
+        <!-- 3 REPERTORY -->
         <div class="home-button orange"
              onclick="buttonClick('Repertory')">
 
@@ -366,7 +418,7 @@ html.dark-mode svg {
         </div>
 
 
-        <!-- 4. APHORISMS -->
+        <!-- 4 APHORISMS -->
         <div class="home-button purple"
              onclick="buttonClick('Aphorisms')">
 
@@ -389,7 +441,7 @@ html.dark-mode svg {
         </div>
 
 
-        <!-- 5. COURSES -->
+        <!-- 5 COURSES -->
         <div class="home-button pink"
              onclick="buttonClick('Courses')">
 
@@ -412,7 +464,7 @@ html.dark-mode svg {
         </div>
 
 
-        <!-- 6. COLLEGES -->
+        <!-- 6 COLLEGES -->
         <div class="home-button teal"
              onclick="buttonClick('Colleges')">
 
@@ -435,7 +487,7 @@ html.dark-mode svg {
         </div>
 
 
-        <!-- 7. PRESCRIBERS -->
+        <!-- 7 PRESCRIBERS -->
         <div class="home-button red"
              onclick="buttonClick('Prescribers')">
 
@@ -458,7 +510,7 @@ html.dark-mode svg {
         </div>
 
 
-        <!-- 8. BOOKS -->
+        <!-- 8 BOOKS -->
         <div class="home-button indigo"
              onclick="buttonClick('Books')">
 
@@ -481,7 +533,7 @@ html.dark-mode svg {
         </div>
 
 
-        <!-- 9. FAVORITES -->
+        <!-- 9 FAVORITES -->
         <div class="home-button wide blue"
              onclick="buttonClick('Favorites')">
 
@@ -517,21 +569,6 @@ function buttonClick(name) {
     }
 
     console.log("Clicked:", name);
-}
-
-
-/* =========================
-   DARK MODE CONTROL
-   ========================= */
-
-function setDarkMode(enabled) {
-
-    if (enabled) {
-        document.documentElement.classList.add("dark-mode");
-    } else {
-        document.documentElement.classList.remove("dark-mode");
-    }
-
 }
 
 </script>
