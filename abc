@@ -53,7 +53,6 @@ body {
 body {
     padding: 12px;
     font-family: Arial, sans-serif;
-    color: #202124;
 }
 
 
@@ -69,6 +68,7 @@ body {
     font-size: 18px;
     font-weight: 700;
     margin: 4px 3px 12px;
+
     color: #202124;
 }
 
@@ -125,7 +125,7 @@ body {
 
 
 /* =====================================================
-   ICON
+   ICON BOX
    ===================================================== */
 
 .icon-box {
@@ -238,82 +238,57 @@ body {
     margin-top: 0;
 }
 
-.wide .button-subtitle {
-    margin-top: 4px;
-}
-
 
 /* =====================================================
-   DARK MODE OVERRIDE
-   =====================================================
-
-   Kodular's injected dark mode normally does:
-
-   html {
-       background: #000 !important;
-       filter: invert(1) hue-rotate(180deg) !important;
-   }
-
-   We override BOTH here.
-
+   DARK MODE
    ===================================================== */
 
+/*
+   We use the presence of the external
+   #darkMode style as the dark-mode signal.
 
-/* Remove dark-mode background */
-html {
-    background: transparent !important;
-}
+   Light mode:
+       Card = #FFFFFF
+
+   Dark mode:
+       Card = #181A1F
+*/
 
 
-/* Remove the inversion applied to the whole page */
-html {
-    filter: none !important;
-}
+/* Always keep background transparent */
 
-
-/* Keep body transparent */
+html,
 body {
     background: transparent !important;
 }
 
 
-/* =====================================================
-   DARK CARD
-   ===================================================== */
+/* -----------------------------------------------------
+   DARK MODE CARD
+   ----------------------------------------------------- */
 
-/*
-   This is the important part.
-
-   When the external dark-mode CSS is active,
-   cards become exactly:
-
-   #181A1F
-*/
-
-.home-button {
+html.dark-active .home-button {
     background: #181A1F !important;
 
     border-color: #292C33 !important;
 
     box-shadow:
-        0 3px 12px rgba(0, 0, 0, 0.20);
+        0 3px 12px rgba(0, 0, 0, 0.22);
 }
 
 
-/* =====================================================
-   DARK TEXT
-   ===================================================== */
+/* Dark text */
 
-.section-title {
-    color: #F1F3F5;
+html.dark-active .section-title {
+    color: #F1F3F5 !important;
 }
 
-.button-name {
-    color: #F1F3F5;
+html.dark-active .button-name {
+    color: #F1F3F5 !important;
 }
 
-.button-subtitle {
-    color: #9BA1AC;
+html.dark-active .button-subtitle {
+    color: #9BA1AC !important;
 }
 
 
@@ -349,17 +324,23 @@ body {
     <div class="button-grid">
 
 
-        <!-- 1 REMEDIES -->
+        <!-- =================================================
+             1. REMEDIES
+             ================================================= -->
+
         <div class="home-button blue"
              onclick="buttonClick('Remedies')">
 
             <div class="icon-box">
+
                 <span class="material-symbols-rounded">
                     medication
                 </span>
+
             </div>
 
             <div>
+
                 <div class="button-name">
                     Remedies
                 </div>
@@ -367,22 +348,29 @@ body {
                 <div class="button-subtitle">
                     Browse remedies
                 </div>
+
             </div>
 
         </div>
 
 
-        <!-- 2 MATERIA MEDICA -->
+        <!-- =================================================
+             2. MATERIA MEDICA
+             ================================================= -->
+
         <div class="home-button green"
              onclick="buttonClick('Materia Medica')">
 
             <div class="icon-box">
+
                 <span class="material-symbols-rounded">
                     menu_book
                 </span>
+
             </div>
 
             <div>
+
                 <div class="button-name">
                     Materia Medica
                 </div>
@@ -390,22 +378,29 @@ body {
                 <div class="button-subtitle">
                     Explore medicines
                 </div>
+
             </div>
 
         </div>
 
 
-        <!-- 3 REPERTORY -->
+        <!-- =================================================
+             3. REPERTORY
+             ================================================= -->
+
         <div class="home-button orange"
              onclick="buttonClick('Repertory')">
 
             <div class="icon-box">
+
                 <span class="material-symbols-rounded">
                     search
                 </span>
+
             </div>
 
             <div>
+
                 <div class="button-name">
                     Repertory
                 </div>
@@ -413,22 +408,29 @@ body {
                 <div class="button-subtitle">
                     Find rubrics
                 </div>
+
             </div>
 
         </div>
 
 
-        <!-- 4 APHORISMS -->
+        <!-- =================================================
+             4. APHORISMS
+             ================================================= -->
+
         <div class="home-button purple"
              onclick="buttonClick('Aphorisms')">
 
             <div class="icon-box">
+
                 <span class="material-symbols-rounded">
                     format_quote
                 </span>
+
             </div>
 
             <div>
+
                 <div class="button-name">
                     Aphorisms
                 </div>
@@ -436,22 +438,29 @@ body {
                 <div class="button-subtitle">
                     Organon aphorisms
                 </div>
+
             </div>
 
         </div>
 
 
-        <!-- 5 COURSES -->
+        <!-- =================================================
+             5. COURSES
+             ================================================= -->
+
         <div class="home-button pink"
              onclick="buttonClick('Courses')">
 
             <div class="icon-box">
+
                 <span class="material-symbols-rounded">
                     school
                 </span>
+
             </div>
 
             <div>
+
                 <div class="button-name">
                     Courses
                 </div>
@@ -459,22 +468,29 @@ body {
                 <div class="button-subtitle">
                     Learn & study
                 </div>
+
             </div>
 
         </div>
 
 
-        <!-- 6 COLLEGES -->
+        <!-- =================================================
+             6. COLLEGES
+             ================================================= -->
+
         <div class="home-button teal"
              onclick="buttonClick('Colleges')">
 
             <div class="icon-box">
+
                 <span class="material-symbols-rounded">
                     account_balance
                 </span>
+
             </div>
 
             <div>
+
                 <div class="button-name">
                     Colleges
                 </div>
@@ -482,22 +498,29 @@ body {
                 <div class="button-subtitle">
                     Find colleges
                 </div>
+
             </div>
 
         </div>
 
 
-        <!-- 7 PRESCRIBERS -->
+        <!-- =================================================
+             7. PRESCRIBERS
+             ================================================= -->
+
         <div class="home-button red"
              onclick="buttonClick('Prescribers')">
 
             <div class="icon-box">
+
                 <span class="material-symbols-rounded">
                     stethoscope
                 </span>
+
             </div>
 
             <div>
+
                 <div class="button-name">
                     Prescribers
                 </div>
@@ -505,22 +528,29 @@ body {
                 <div class="button-subtitle">
                     Clinical resources
                 </div>
+
             </div>
 
         </div>
 
 
-        <!-- 8 BOOKS -->
+        <!-- =================================================
+             8. BOOKS
+             ================================================= -->
+
         <div class="home-button indigo"
              onclick="buttonClick('Books')">
 
             <div class="icon-box">
+
                 <span class="material-symbols-rounded">
                     library_books
                 </span>
+
             </div>
 
             <div>
+
                 <div class="button-name">
                     Books
                 </div>
@@ -528,22 +558,29 @@ body {
                 <div class="button-subtitle">
                     Browse library
                 </div>
+
             </div>
 
         </div>
 
 
-        <!-- 9 FAVORITES -->
+        <!-- =================================================
+             9. FAVORITES
+             ================================================= -->
+
         <div class="home-button wide blue"
              onclick="buttonClick('Favorites')">
 
             <div class="icon-box">
+
                 <span class="material-symbols-rounded">
                     star
                 </span>
+
             </div>
 
             <div>
+
                 <div class="button-name">
                     Favorites
                 </div>
@@ -551,9 +588,11 @@ body {
                 <div class="button-subtitle">
                     Access your saved resources
                 </div>
+
             </div>
 
         </div>
+
 
     </div>
 
@@ -561,6 +600,10 @@ body {
 
 
 <script>
+
+/* =====================================================
+   KODULAR BUTTON CLICK
+   ===================================================== */
 
 function buttonClick(name) {
 
@@ -570,6 +613,66 @@ function buttonClick(name) {
 
     console.log("Clicked:", name);
 }
+
+
+/* =====================================================
+   DARK MODE DETECTION
+   ===================================================== */
+
+/*
+   Kodular adds/removes:
+
+   <style id="darkMode">
+       ...
+   </style>
+
+   We watch for that style.
+
+   If it exists:
+       dark-active = ON
+
+   If removed:
+       dark-active = OFF
+*/
+
+
+function checkDarkMode() {
+
+    var darkStyle = document.getElementById("darkMode");
+
+    if (darkStyle) {
+
+        document.documentElement.classList.add("dark-active");
+
+    } else {
+
+        document.documentElement.classList.remove("dark-active");
+
+    }
+}
+
+
+/* Check when page loads */
+
+checkDarkMode();
+
+
+/* Watch for Kodular injecting/removing darkMode */
+
+var observer = new MutationObserver(function() {
+
+    checkDarkMode();
+
+});
+
+
+observer.observe(document.documentElement, {
+
+    childList: true,
+
+    subtree: true
+
+});
 
 </script>
 
